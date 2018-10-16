@@ -1,0 +1,26 @@
+['Location x-coordinate',
+'Location y coordinate',
+'Location z coordinate',
+'Observation period in minutes',
+'Max Heave - Total (peak to peak)',
+'Max Surge - Total (peak to peak)',
+'Max Sway - Total (peak to peak)',
+'Max Heave Speed',
+'Max Surge Speed',
+'Max Sway Speed',
+'Max Heave Acceleration',
+'Max Surge Acceleration',
+'Max Sway Acceleration',
+'Max Heave- Single (peak to peak)',
+'Average Heave',
+'Average Heave Speed',
+'Average Heave Rate',
+'Max Average Heave Rate 1',
+'Max Average Heave Rate 2',
+'Average Heave Period',
+'Min Heave Period',
+'Max Heave Period']
+
+
+['m','m','m','min','m','m','m','m/s','m/s','m/s','m/s2','m/s2',
+ 'm/s2','m','m','m/s','m/s','m/s','m/s','s','s','s']
